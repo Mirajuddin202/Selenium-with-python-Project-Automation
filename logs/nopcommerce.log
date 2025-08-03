@@ -1,0 +1,80 @@
+08/03/2025 06:42:06 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 06:42:06 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 06:42:08 PM: INFO: ************ Test Title Match *************
+08/03/2025 06:42:10 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 06:42:15 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 06:42:18 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 06:42:21 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:06:55 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 08:06:55 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:06:56 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:06:59 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 08:07:04 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:07:07 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 08:07:10 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:07:43 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 08:07:43 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:07:45 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:07:51 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 08:07:58 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:08:00 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 08:08:03 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:08:28 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 08:08:28 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:08:29 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:08:34 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 08:08:41 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:08:43 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 08:08:46 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:08:58 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 08:08:58 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:09:00 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:09:03 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 08:09:08 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:09:10 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 08:09:12 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:13:45 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 08:13:45 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:13:46 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:13:59 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 08:14:04 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:14:16 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 08:14:19 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:18:11 PM: INFO: ************ Test Valid Admin Login Started *************
+
+08/03/2025 08:18:11 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:18:14 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:18:17 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:18:19 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:18:40 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 08:18:40 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 08:18:40 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:18:42 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:18:48 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:18:52 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 08:18:55 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:22:26 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 08:22:26 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:22:42 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:22:54 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 08:22:59 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:23:04 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 08:23:06 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 08:30:25 PM: INFO: ************ Test_001_Admin Login **************
+08/03/2025 08:30:25 PM: INFO: ************ Admin Login Page Title *************
+08/03/2025 08:30:27 PM: INFO: ************ Test Title Match *************
+08/03/2025 08:30:35 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 08:30:43 PM: INFO: ************ Dashboard text Found *************
+08/03/2025 08:30:48 PM: INFO: ************ test_invalid_admin_login Started*************
+08/03/2025 08:30:50 PM: INFO: ************ test_invalid_admin_login error messeage matched *************
+08/03/2025 09:27:21 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 09:27:29 PM: INFO: **** failed ****
+08/03/2025 09:28:20 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 09:28:29 PM: INFO: **** failed ****
+08/03/2025 09:32:11 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 09:32:20 PM: INFO: **** failed ****
+08/03/2025 09:40:05 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 09:46:52 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 09:57:30 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 10:00:19 PM: INFO: ************ Test Valid Admin Login Started *************
+08/03/2025 10:05:48 PM: INFO: ************ Test Valid Admin Login Started *************
