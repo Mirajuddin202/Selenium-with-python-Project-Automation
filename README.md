@@ -1,5 +1,4 @@
 # Selenium Automation Framework with Pytest
-
 This repository contains a scalable, modular test automation framework using **Python**, **Selenium**, and **Pytest**.
 
 ## Technologies Used
@@ -19,7 +18,9 @@ This repository contains a scalable, modular test automation framework using **P
 - **pytest-xdist**
 ## Screenshots 
 <img width="1894" height="777" alt="Screenshot 2025-08-03 202347" src="https://github.com/user-attachments/assets/eb51e658-8dff-44da-811e-e4722561bf90" />
+
 ## Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss what you would like to change.
+
 ## License
 MIT License — free for personal and commercial use.
